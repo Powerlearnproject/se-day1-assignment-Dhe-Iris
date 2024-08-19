@@ -36,6 +36,7 @@ Collaboration-Focused: Emphasizes close collaboration between teams and stakehol
 Example Scenario: Suitable for projects with evolving requirements, like developing a customer-focused mobile app.
 Comparison:
 
+
 Waterfall is structured and predictable, best for projects with stable requirements, while Agile is flexible and responsive, suited for dynamic, fast-changing projects
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
